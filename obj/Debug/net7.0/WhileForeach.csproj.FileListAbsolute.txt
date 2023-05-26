@@ -1,0 +1,15 @@
+D:\Patika\WhileForeach\bin\Debug\net7.0\WhileForeach.exe
+D:\Patika\WhileForeach\bin\Debug\net7.0\WhileForeach.deps.json
+D:\Patika\WhileForeach\bin\Debug\net7.0\WhileForeach.runtimeconfig.json
+D:\Patika\WhileForeach\bin\Debug\net7.0\WhileForeach.dll
+D:\Patika\WhileForeach\bin\Debug\net7.0\WhileForeach.pdb
+D:\Patika\WhileForeach\obj\Debug\net7.0\WhileForeach.csproj.AssemblyReference.cache
+D:\Patika\WhileForeach\obj\Debug\net7.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\WhileForeach\obj\Debug\net7.0\WhileForeach.AssemblyInfoInputs.cache
+D:\Patika\WhileForeach\obj\Debug\net7.0\WhileForeach.AssemblyInfo.cs
+D:\Patika\WhileForeach\obj\Debug\net7.0\WhileForeach.csproj.CoreCompileInputs.cache
+D:\Patika\WhileForeach\obj\Debug\net7.0\WhileForeach.dll
+D:\Patika\WhileForeach\obj\Debug\net7.0\refint\WhileForeach.dll
+D:\Patika\WhileForeach\obj\Debug\net7.0\WhileForeach.pdb
+D:\Patika\WhileForeach\obj\Debug\net7.0\WhileForeach.genruntimeconfig.cache
+D:\Patika\WhileForeach\obj\Debug\net7.0\ref\WhileForeach.dll
